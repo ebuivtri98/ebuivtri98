@@ -57,3 +57,5 @@ Computer systems consist of various components that work together to process dat
 15. **Operating System (OS):** The OS is software that manages the computer's hardware and provides a user interface for running applications and performing tasks.
 
 These components work together to create a functional computer system. Depending on your needs and preferences, you can customize or upgrade individual components to enhance your computer's performance for specific tasks or applications.
+
+https://www.youtube.com/watch?v=8-9wPvY7ceU
