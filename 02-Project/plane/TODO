@@ -1,0 +1,38 @@
+Azure 
+Github
+TFE
+Checkov
+Terratest
+
+RBAC
+Azure Policy
+
+Modules
+LZdatasource
+Storage account
+Postgre
+Static webapp
+App service
+CosmosDB
+Azure function (nondurable and durale)
+Redis
+MSSQL
+Service bus
+
+Project
+org
+workspace
+env
+naming convention
+
+Process for module
+Push module into TFE via workflow
+
+Keyvault access model
+Tagging
+Private endpoint
+Resource locking
+Terraform module testing
+Point in time recovery
+Example team project
+Migrate org TFE
