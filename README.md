@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ebuivtri98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bui Van Tri or Ethan Bui or @ebuivtri98
+- 👀 I’m interested in computer and information technology
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me ebuivtri98@gmail.com
 
 <!---
 ebuivtri98/ebuivtri98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
