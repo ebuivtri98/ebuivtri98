@@ -26,3 +26,5 @@ override.tf.json
 # Exclude CLI configuration files
 terraform.rc
 .terraform.lock.hcl
+
+test.tf
